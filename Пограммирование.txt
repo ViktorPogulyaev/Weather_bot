@@ -1,0 +1,13 @@
+сложность структур 
+http методы 
+паттерны проектирования 
+ключевые структуры 
+библиотеки 
+
+
+Строки - https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
+Отличная статья про декораторы - https://habr.com/ru/post/141411/
+				https://habr.com/ru/post/141501/
+Что-то про паттерны проектирования - https://ru.wikipedia.org/wiki/Шаблон_проектирования#.D0.9E.D1.81.D0.BD.D0.BE.D0.B2.D0.BD.D1.8B.D0.B5
+Итераторы - https://ru.wikipedia.org/wiki/Итератор_(шаблон_проектирования)
+Распаковка аргументов - http://www.saltycrane.com/blog/2008/01/how-to-use-args-and-kwargs-in-python/
